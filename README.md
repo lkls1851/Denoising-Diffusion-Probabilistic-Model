@@ -6,5 +6,5 @@
 4. ‘DDPM.ipynb’ : Notebook for implementing actual code
 For calculating FID values for camparing the distribution in generated and actual images,
 Run the following commands in the directory:
-pip3 install pytorch-fid
-python3 -m pytorch_fid Generated Actual --device cuda:0
+// pip3 install pytorch-fid
+// python3 -m pytorch_fid Generated Actual --device cuda:0
